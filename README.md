@@ -1,6 +1,6 @@
-# poker
+# poker.clj
 
-Texas hold'em poker game/library implemented in Clojure.
+A texas hold'em poker game/library implemented in Clojure.
 
 
 ##TODO List
